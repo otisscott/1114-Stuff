@@ -1,0 +1,32 @@
+# Otis Scott
+# CS - UY 1114
+# 19 Sept 2018
+# Homework 2
+
+a.) 21 < 110
+
+b.) '21' > '110'
+
+c.) 54 > 5 + 4
+
+d.) '54' == '5' + '4'
+
+e.) "9" < "9" * 3
+
+f.) "0003.0" < "3.0"
+
+g.) 0003.0 == 3.0
+
+h.) "air" < "bear"
+
+i.) "dynamo" > "Dynamo"
+
+j.) 'What?' > 'What!'
+
+k.) (1 > 3) != (9.0 < 9.5)
+
+l.) ("a" <= "b") == ("d" => "c")
+
+m.) ("Green" < "green") or ("air" + 'bear' == "airbear")
+
+n.) not(("Green" > "green") or ("air" + 'bear' != "airbear")
