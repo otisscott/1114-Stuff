@@ -1,0 +1,36 @@
+# Otis Scott
+# CS - UY 1114
+# 4 Oct 2018
+# Lab 5
+
+a.) 2
+    1
+    0
+    -1
+
+b.) 4
+    5
+    6
+    goes on forever
+
+c.) 8
+    4
+    2
+    1
+    0
+
+d.) 2
+    4
+    6
+    8
+
+e.) x
+    xx
+    xxx
+    xxxx
+
+f.) 10
+    8
+    6
+    4
+    2

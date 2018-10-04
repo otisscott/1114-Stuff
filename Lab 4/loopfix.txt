@@ -1,0 +1,21 @@
+# Otis Scott
+# CS - UY 1114
+# 4 Oct 2018
+# Lab 5
+
+for each in range(0, 10):
+    if each < 5 and each != 2:
+        print('X')
+
+i = 1
+while i < 11:
+    print('X')
+    i += 3
+
+i = 10
+while i < 100:
+    print('X')
+    i += 10
+
+for each in range(2, 10):
+    print('X')

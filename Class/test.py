@@ -1,5 +1,2 @@
-n = 0
-
-while n < 100:
-    print(n)
-    n += 3
+for i in range(10, 1, -2):
+    print(i)

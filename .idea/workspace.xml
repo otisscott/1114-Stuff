@@ -2,6 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc0aa110-5527-45e2-a392-5c0a47a99f70" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Homework 4/oms275_h24_q3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework 4/oms275_h24_q6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework 4/oms275_hw4_q1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework 4/oms275_hw4_q2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework 4/oms275_hw4_q4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework 4/oms275_hw4_q5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 4/3sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 4/binaryconverter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 4/digsum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 4/geomean.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 4/loop.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 4/loopfix.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 4/multistar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 4/nsum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 4/romanbullshit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 4/romanbullshitnoloop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 4/twoint.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Class/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class/test.py" afterDir="false" />
     </list>
@@ -14,28 +31,42 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/untitled$shittycalendar.coverage" NAME="shittycalendar Coverage Results" MODIFIED="1536842773865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$oms275_hw3_q5.coverage" NAME="oms275_hw3_q5 Coverage Results" MODIFIED="1538022798075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework 3" />
+    <SUITE FILE_PATH="coverage/untitled$twoint.coverage" NAME="twoint Coverage Results" MODIFIED="1538661009758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 4" />
     <SUITE FILE_PATH="coverage/untitled$oddevencheck.coverage" NAME="oddevencheck Coverage Results" MODIFIED="1538055473505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 3" />
-    <SUITE FILE_PATH="coverage/untitled$truestar.coverage" NAME="truestar Coverage Results" MODIFIED="1537477118307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 2" />
-    <SUITE FILE_PATH="coverage/untitled$oms275_hw3_q4.coverage" NAME="oms275_hw3_q4 Coverage Results" MODIFIED="1538021308426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework 3" />
+    <SUITE FILE_PATH="coverage/untitled$oms275_h24_q3.coverage" NAME="oms275_h24_q3 Coverage Results" MODIFIED="1538654889931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework 4" />
+    <SUITE FILE_PATH="coverage/untitled$geomean.coverage" NAME="geomean Coverage Results" MODIFIED="1538661060431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 4" />
+    <SUITE FILE_PATH="coverage/untitled$oms275_hw4_q2.coverage" NAME="oms275_hw4_q2 Coverage Results" MODIFIED="1538634190728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework 4" />
     <SUITE FILE_PATH="coverage/untitled$oms275_hw1_q5.coverage" NAME="oms275_hw1_q5 Coverage Results" MODIFIED="1537160465537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$datetime.coverage" NAME="datetime Coverage Results" MODIFIED="1538055589432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 3" />
     <SUITE FILE_PATH="coverage/untitled$oms275_hw2_q8.coverage" NAME="oms275_hw2_q8 Coverage Results" MODIFIED="1537446734021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework 2" />
-    <SUITE FILE_PATH="coverage/untitled$equilateraloptions.coverage" NAME="equilateraloptions Coverage Results" MODIFIED="1538055479261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 3" />
     <SUITE FILE_PATH="coverage/untitled$random_string.coverage" NAME="random_string Coverage Results" MODIFIED="1537449389512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 2" />
     <SUITE FILE_PATH="coverage/untitled$simplecalculator.coverage" NAME="simplecalculator Coverage Results" MODIFIED="1536842739937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$oms275_hw3_q3.coverage" NAME="oms275_hw3_q3 Coverage Results" MODIFIED="1538020301287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework 3" />
     <SUITE FILE_PATH="coverage/untitled$timeconverter.coverage" NAME="timeconverter Coverage Results" MODIFIED="1538055616282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 3" />
     <SUITE FILE_PATH="coverage/untitled$shapes.coverage" NAME="shapes Coverage Results" MODIFIED="1537477123667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 2" />
-    <SUITE FILE_PATH="coverage/untitled$oms275_hw2_q7.coverage" NAME="oms275_hw2_q7 Coverage Results" MODIFIED="1537415446347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework 2" />
-    <SUITE FILE_PATH="coverage/untitled$timealive.coverage" NAME="timealive Coverage Results" MODIFIED="1537821880807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 2" />
     <SUITE FILE_PATH="coverage/untitled$oms275_hw2_q6.coverage" NAME="oms275_hw2_q6 Coverage Results" MODIFIED="1537414565773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework 2" />
-    <SUITE FILE_PATH="coverage/untitled$test.coverage" NAME="test Coverage Results" MODIFIED="1538429663570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class" />
     <SUITE FILE_PATH="coverage/untitled$oms275_hw1_q3.coverage" NAME="oms275_hw1_q3 Coverage Results" MODIFIED="1536800163200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$interestcalc.coverage" NAME="interestcalc Coverage Results" MODIFIED="1536842800583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$payment.coverage" NAME="payment Coverage Results" MODIFIED="1538055631457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 3" />
+    <SUITE FILE_PATH="coverage/untitled$shapemaker.coverage" NAME="shapemaker Coverage Results" MODIFIED="1538055681300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 3" />
+    <SUITE FILE_PATH="coverage/untitled$nsum.coverage" NAME="nsum Coverage Results" MODIFIED="1538660935324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 4" />
+    <SUITE FILE_PATH="coverage/untitled$binaryconverter.coverage" NAME="binaryconverter Coverage Results" MODIFIED="1538661074196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 4" />
+    <SUITE FILE_PATH="coverage/untitled$truestar.coverage" NAME="truestar Coverage Results" MODIFIED="1537477118307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 2" />
+    <SUITE FILE_PATH="coverage/untitled$oms275_hw4_q4.coverage" NAME="oms275_hw4_q4 Coverage Results" MODIFIED="1538635144575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework 4" />
+    <SUITE FILE_PATH="coverage/untitled$oms275_hw3_q4.coverage" NAME="oms275_hw3_q4 Coverage Results" MODIFIED="1538021308426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework 3" />
+    <SUITE FILE_PATH="coverage/untitled$digsum.coverage" NAME="digsum Coverage Results" MODIFIED="1538661023531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 4" />
+    <SUITE FILE_PATH="coverage/untitled$oms275_hw4_q3.coverage" NAME="oms275_hw4_q3 Coverage Results" MODIFIED="1538634476431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework 4" />
+    <SUITE FILE_PATH="coverage/untitled$multistar.coverage" NAME="multistar Coverage Results" MODIFIED="1538660966822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 4" />
+    <SUITE FILE_PATH="coverage/untitled$equilateraloptions.coverage" NAME="equilateraloptions Coverage Results" MODIFIED="1538055479261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 3" />
+    <SUITE FILE_PATH="coverage/untitled$3sum.coverage" NAME="3sum Coverage Results" MODIFIED="1538660918430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 4" />
+    <SUITE FILE_PATH="coverage/untitled$oms275_hw2_q7.coverage" NAME="oms275_hw2_q7 Coverage Results" MODIFIED="1537415446347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework 2" />
+    <SUITE FILE_PATH="coverage/untitled$timealive.coverage" NAME="timealive Coverage Results" MODIFIED="1537821880807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 2" />
+    <SUITE FILE_PATH="coverage/untitled$loopfix.coverage" NAME="loopfix Coverage Results" MODIFIED="1538655241772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 4" />
+    <SUITE FILE_PATH="coverage/untitled$test.coverage" NAME="test Coverage Results" MODIFIED="1538655111333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class" />
+    <SUITE FILE_PATH="coverage/untitled$romanbullshitnoloop.coverage" NAME="romanbullshitnoloop Coverage Results" MODIFIED="1538660908614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 4" />
+    <SUITE FILE_PATH="coverage/untitled$romanbullshit.coverage" NAME="romanbullshit Coverage Results" MODIFIED="1538661122110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 4" />
     <SUITE FILE_PATH="coverage/untitled$volumeofsphere.coverage" NAME="volumeofsphere Coverage Results" MODIFIED="1536842710456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$normal_curve.coverage" NAME="normal_curve Coverage Results" MODIFIED="1537449403146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 2" />
-    <SUITE FILE_PATH="coverage/untitled$shapemaker.coverage" NAME="shapemaker Coverage Results" MODIFIED="1538055681300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 3" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-932617354">
@@ -45,37 +76,37 @@
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.6" value="4" />
           <entry key="project.open.time.64" value="1" />
-          <entry key="project.open.time.7" value="3" />
+          <entry key="project.open.time.7" value="4" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ifelseans" value="1" />
-          <entry key="py" value="56" />
-          <entry key="txt" value="11" />
+          <entry key="py" value="73" />
+          <entry key="txt" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="12" />
-          <entry key="Python" value="56" />
+          <entry key="PLAIN_TEXT" value="16" />
+          <entry key="Python" value="73" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="3" />
-          <entry key="py" value="12774" />
-          <entry key="txt" value="839" />
+          <entry key="dummy" value="10" />
+          <entry key="py" value="17548" />
+          <entry key="txt" value="1326" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="842" />
-          <entry key="Python" value="12774" />
+          <entry key="PLAIN_TEXT" value="1336" />
+          <entry key="Python" value="17548" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -85,55 +116,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lab 3/conversions.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lab 3/ifelseans.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lab 3/oddevencheck.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lab 3/equilateraloptions.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="3" selection-end-column="7" />
-              <folding>
-                <element signature="e#52#65#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lab 3/datetime.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lab 3/timeconverter.py">
+        <entry file="file://$PROJECT_DIR$/Lab 4/nsum.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" selection-start-line="4" selection-end-line="4" />
@@ -142,28 +125,85 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lab 3/payment.py">
+        <entry file="file://$PROJECT_DIR$/Lab 4/multistar.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+            <state relative-caret-position="85">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lab 3/shapemaker.py">
+        <entry file="file://$PROJECT_DIR$/Lab 4/twoint.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+            <state relative-caret-position="221">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab 4/digsum.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab 4/geomean.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab 4/binaryconverter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab 4/romanbullshit.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Class/test.py">
+        <entry file="file://$PROJECT_DIR$/Lab 4/romanbullshitnoloop.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="357">
+              <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab 4/loop.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab 4/loopfix.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -183,10 +223,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_hw1_q1andq2.py" />
-        <option value="$PROJECT_DIR$/oms275_hw1_q1andq2.py" />
-        <option value="$PROJECT_DIR$/simplecalculator.py" />
-        <option value="$PROJECT_DIR$/shittycalendar.py" />
         <option value="$PROJECT_DIR$/interestcalc.py" />
         <option value="$PROJECT_DIR$/oms275_hw1_q3.py" />
         <option value="$PROJECT_DIR$/oms275_hw1_q1andq2.txt" />
@@ -218,7 +254,26 @@
         <option value="$PROJECT_DIR$/Lab 3/shapemaker.py" />
         <option value="$PROJECT_DIR$/Lab 3/payment.py" />
         <option value="$PROJECT_DIR$/Lab 3/datetime.py" />
+        <option value="$PROJECT_DIR$/Homework 4/oms275_hw4_q3.py" />
+        <option value="$PROJECT_DIR$/Homework 4/oms275_hw4_q1.txt" />
+        <option value="$PROJECT_DIR$/Homework 4/oms275_hw4_q2.py" />
+        <option value="$PROJECT_DIR$/Homework 4/oms275_hw4_q4.py" />
+        <option value="$PROJECT_DIR$/Homework 4/oms275_hw4_q5.py" />
+        <option value="$PROJECT_DIR$/Homework 4/oms275_h24_q6.py" />
+        <option value="$PROJECT_DIR$/Homework 4/oms275_h24_q3.py" />
         <option value="$PROJECT_DIR$/Class/test.py" />
+        <option value="$PROJECT_DIR$/Lab 4/loop.txt" />
+        <option value="$PROJECT_DIR$/Lab 4/loopfix.py" />
+        <option value="$PROJECT_DIR$/Lab 4/loopfix.txt" />
+        <option value="$PROJECT_DIR$/Lab 4/3sum.py" />
+        <option value="$PROJECT_DIR$/Lab 4/nsum.py" />
+        <option value="$PROJECT_DIR$/Lab 4/multistar.py" />
+        <option value="$PROJECT_DIR$/Lab 4/twoint.py" />
+        <option value="$PROJECT_DIR$/Lab 4/digsum.py" />
+        <option value="$PROJECT_DIR$/Lab 4/geomean.py" />
+        <option value="$PROJECT_DIR$/Lab 4/binaryconverter.py" />
+        <option value="$PROJECT_DIR$/Lab 4/romanbullshit.py" />
+        <option value="$PROJECT_DIR$/Lab 4/romanbullshitnoloop.py" />
       </list>
     </option>
   </component>
@@ -229,10 +284,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="132" />
-    <option name="y" value="-12" />
-    <option name="width" value="3722" />
-    <option name="height" value="2186" />
+    <option name="x" value="134" />
+    <option name="width" value="1870" />
+    <option name="height" value="2172" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -252,6 +306,21 @@
               <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
               <item name="untitled" type="462c0819:PsiDirectoryNode" />
               <item name="Class" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework 3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework 4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab 4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -284,8 +353,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test">
-    <configuration name="datetime" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.romanbullshit">
+    <configuration name="binaryconverter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -293,12 +362,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab 3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab 4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab 3/datetime.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab 4/binaryconverter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -307,7 +376,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="payment" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="digsum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -315,12 +384,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab 3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab 4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab 3/payment.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab 4/digsum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -329,7 +398,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="shapemaker" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="geomean" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -337,12 +406,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab 3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab 4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab 3/shapemaker.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab 4/geomean.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -351,7 +420,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="romanbullshit" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -359,12 +428,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab 4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab 4/romanbullshit.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -373,7 +442,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="timeconverter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="twoint" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -381,12 +450,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab 3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab 4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab 3/timeconverter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab 4/twoint.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -396,19 +465,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.timeconverter" />
-      <item itemvalue="Python.payment" />
-      <item itemvalue="Python.datetime" />
-      <item itemvalue="Python.shapemaker" />
-      <item itemvalue="Python.test" />
+      <item itemvalue="Python.twoint" />
+      <item itemvalue="Python.digsum" />
+      <item itemvalue="Python.geomean" />
+      <item itemvalue="Python.binaryconverter" />
+      <item itemvalue="Python.romanbullshit" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.shapemaker" />
-        <item itemvalue="Python.payment" />
-        <item itemvalue="Python.timeconverter" />
-        <item itemvalue="Python.datetime" />
+        <item itemvalue="Python.romanbullshit" />
+        <item itemvalue="Python.binaryconverter" />
+        <item itemvalue="Python.geomean" />
+        <item itemvalue="Python.digsum" />
+        <item itemvalue="Python.twoint" />
       </list>
     </recent_temporary>
   </component>
@@ -426,15 +495,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="66" y="-6" width="1861" height="1093" extended-state="0" />
-    <editor active="true" />
+    <frame x="67" y="0" width="935" height="1086" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13810316" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2941847" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3087318" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3078534" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -451,6 +519,29 @@
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2941847" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3078534" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -549,13 +640,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homework 3/oms275_hw3_q2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -667,6 +751,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Lab 3/shapemaker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="579">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Lab 3/payment.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -674,17 +765,142 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab 3/shapemaker.py">
+    <entry file="file://$PROJECT_DIR$/Homework 3/oms275_hw3_q2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        <state>
+          <caret selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework 4/oms275_hw4_q4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework 4/oms275_h24_q6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework 4/oms275_hw4_q2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework 4/oms275_hw4_q5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework 4/oms275_hw4_q1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Class/test.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework 4/oms275_h24_q3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab 4/3sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="83" selection-start-line="8" selection-start-column="83" selection-end-line="8" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab 4/binaryconverter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab 4/loop.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab 4/loopfix.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab 4/nsum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab 4/multistar.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab 4/twoint.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab 4/digsum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab 4/geomean.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab 4/romanbullshit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab 4/romanbullshitnoloop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
         </state>
       </provider>
     </entry>
