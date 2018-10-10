@@ -9,16 +9,16 @@ roman = ""
 
 if num > 1000:
     roman += "M" * (num // 1000)
-    num = num % 10
+    num = num % 1000
 if num > 500:
     roman += "D"
-    num = 500
+    num -= 500
 if num > 100:
     roman += "C" * (num // 100)
     num = num % 100
 if num > 50:
     roman += "L"
-    num -= 50
+    num = num % 50
 if num > 10:
     roman += "X" * (num // 10)
     num = num % 10

@@ -3,10 +3,8 @@
 # 4 Oct 2018
 # Homework 4
 
-arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-
-for column in range(1, 6):
+for row in range(1, 6):
     row_str = ""
-    for row in range(0, len(arr)):
-        row_str += str(arr[row] ** column) + "\t"
+    for column in range(1, 11):
+        row_str += str(column ** row) + "\t"
     print(row_str)
