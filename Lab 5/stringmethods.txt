@@ -1,0 +1,36 @@
+1.) inp = "Grade Hopper"
+    a.) print(inp[0])
+
+    b.) print(inp[-1])
+
+    c.) print(inp[len(inp)])
+
+    d.) str = ""
+        for each in range(0, len(inp)):
+            if inp[each] == " ":
+                break
+            else:
+                str += inp[each]
+        print(str)
+
+2.) inp = "homework"
+    a.) print(inp[inp.find("home"):inp.find("home") + 4])
+
+    b.) print(inp[inp.find("work"):inp.find("work") + 4])
+
+3.) inp = "teststring"
+    a.) print(0:len(inp) // 2]
+
+    b.) print(inp[len(inp) // 2: len(inp)])
+
+4.) inp = "thisisateststring"
+    a.) print(inp[len(inp)//2])
+
+    b.) print(inp[0:len(inp)//2])
+
+    c.) print(inp[len(inp)//2+1:len(inp)])
+
+5.)
+    a.) "Wa syu ae"
+
+    b.) "y si t"

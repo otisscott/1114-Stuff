@@ -6,6 +6,7 @@
 import random
 num = random.randint(1, 100)
 guess = 0
+guesses = 0
 print(num)
 print("I'm thinking of a number between 1 and 100, try to guess it.")
 while guess != num:
@@ -18,5 +19,9 @@ while guess != num:
             elif guess < num:
                 print("Your guess was too low, try again")
     else:
-        print('Sorry but "' + str(inp) + '" is not a number between 1 and 100.')
+        guesses += 1
+        if guesses < 5:
+            print('Sorry but "' + str(inp) + '" is not a number between 1 and 100.')
+        else:
+            print("My right nut has more brain cells than you")
 print("Congradulations, you guessed the number!")
