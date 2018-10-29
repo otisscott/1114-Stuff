@@ -1,7 +1,7 @@
 # Otis Scott
 # CS - UY 1114
 # 27 Sept 2018
-# Lab 4
+# Lab 5
 
 twentyfour = int(input("Please enter time in 24 hr format: "))
 tfhours = twentyfour // 100

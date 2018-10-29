@@ -1,12 +1,13 @@
-sum1 = int(input("Enter the first number: "))
-sum2 = int(input("Enter the second number: "))
+def go(from_num, to_num):
+    if to_num < from_num:
+        temp = to_num
+        to_num = from_num
+        from_num = temp
+    while from_num < to_num:
+        print(str(from_num) + ".." + str(to_num))
+        from_num += 1
+        to_num -= 1
 
 
-def square_of_sum(num1, num2):
-    """
-    num1: int, num2: int, return: int
-    """
-    return (num1 + num2) ** 2
-
-
-print(square_of_sum(sum1, sum2))
+go(5, 10)
+go(72, 69)

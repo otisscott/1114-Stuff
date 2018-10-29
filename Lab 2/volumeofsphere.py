@@ -1,7 +1,7 @@
 # Otis Scott
 #CS - UY 1114
 # 13 Sept 2018
-# Lab 2
+# Lab 3
 
 pi = 22 / 7
 radius_1 = 1.5

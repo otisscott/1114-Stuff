@@ -1,7 +1,7 @@
 # Otis Scott
 # CS - UY 1114
 # 19 Sept 2018
-# Lab 3
+# Lab 4
 
 import random
 

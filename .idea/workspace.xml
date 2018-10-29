@@ -2,29 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc0aa110-5527-45e2-a392-5c0a47a99f70" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Homework 5/oms275_hw5_q1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework 5/oms275_hw5_q2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework 5/oms275_hw5_q3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework 5/oms275_hw5_q4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework 5/oms275_hw5_q5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework 5/oms275_hw5_q6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework 5/oms275_hw5_q7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab 5/evenchecker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab 5/hammingdistance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab 5/monodigit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab 5/namecheck.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab 5/palindromechecker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab 5/pinhider.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab 5/prob1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab 5/reflectedtri.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab 5/sqrprinter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab 5/stringmethods.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab 5/successivebinary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab 5/tri_printer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab 5/wordreverse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 8/lab8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab 8/prob1.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Class/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework 4/oms275_hw4_q6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 4/oms275_hw4_q6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 1/interestcalc.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 2/interestcalc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 1/shittycalendar.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 2/shittycalendar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 1/simplecalculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 2/simplecalculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 1/volumeofsphere.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 2/volumeofsphere.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 2/normal_curve.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 3/normal_curve.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 2/random_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 3/random_string.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 2/shapes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 3/shapes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 2/timealive.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 3/timealive.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 2/truestar.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 3/truestar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 3/conversions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 4/conversions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 3/datetime.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 4/datetime.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 3/equilateraloptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 4/equilateraloptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 3/ifelseans.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 4/ifelseans.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 3/oddevencheck.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 4/oddevencheck.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 3/payment.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 4/payment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 3/shapemaker.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 4/shapemaker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 3/timeconverter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 4/timeconverter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 4/3sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 5/3sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 4/binaryconverter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 5/binaryconverter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 4/digsum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 5/digsum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 4/geomean.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 5/geomean.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 4/loop.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 5/loop.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 4/loopfix.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 5/loopfix.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 4/multistar.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 5/multistar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 4/nsum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 5/nsum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 4/romanbullshit.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 5/romanbullshit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 4/romanbullshitnoloop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 5/romanbullshitnoloop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 4/twoint.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 5/twoint.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 5/evenchecker.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 6/evenchecker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 5/hammingdistance.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 6/hammingdistance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 5/monodigit.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 6/monodigit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 5/namecheck.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 6/namecheck.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 5/palindromechecker.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 6/palindromechecker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 5/pinhider.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 6/pinhider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 5/prob1" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 6/prob1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 5/reflectedtri.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 6/reflectedtri.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 5/sqrprinter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 6/sqrprinter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 5/stringmethods.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 6/stringmethods.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 5/successivebinary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 6/successivebinary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 5/tri_printer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 6/tri_printer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 5/wordreverse.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 6/wordreverse.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,11 +64,12 @@
     <SUITE FILE_PATH="coverage/untitled$oms275_hw5_q2.coverage" NAME="oms275_hw5_q2 Coverage Results" MODIFIED="1539223765748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework 5" />
     <SUITE FILE_PATH="coverage/untitled$namecheck.coverage" NAME="namecheck Coverage Results" MODIFIED="1539649293807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 5" />
     <SUITE FILE_PATH="coverage/untitled$oms275_hw4_q8.coverage" NAME="oms275_hw4_q8 Coverage Results" MODIFIED="1539206751237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework 4" />
-    <SUITE FILE_PATH="coverage/untitled$wordreverse.coverage" NAME="wordreverse Coverage Results" MODIFIED="1539715011317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 5" />
+    <SUITE FILE_PATH="coverage/untitled$wordreverse.coverage" NAME="wordreverse Coverage Results" MODIFIED="1539884961475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 5" />
     <SUITE FILE_PATH="coverage/untitled$oms275_hw1_q5.coverage" NAME="oms275_hw1_q5 Coverage Results" MODIFIED="1537160465537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$oms275_hw2_q8.coverage" NAME="oms275_hw2_q8 Coverage Results" MODIFIED="1537446734021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework 2" />
     <SUITE FILE_PATH="coverage/untitled$random_string.coverage" NAME="random_string Coverage Results" MODIFIED="1537449389512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 2" />
     <SUITE FILE_PATH="coverage/untitled$shapes.coverage" NAME="shapes Coverage Results" MODIFIED="1537477123667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 2" />
+    <SUITE FILE_PATH="coverage/untitled$lab8.coverage" NAME="lab8 Coverage Results" MODIFIED="1540473621486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 8" />
     <SUITE FILE_PATH="coverage/untitled$shapemaker.coverage" NAME="shapemaker Coverage Results" MODIFIED="1538055681300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 3" />
     <SUITE FILE_PATH="coverage/untitled$truestar.coverage" NAME="truestar Coverage Results" MODIFIED="1537477118307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 2" />
     <SUITE FILE_PATH="coverage/untitled$palindromechecker.coverage" NAME="palindromechecker Coverage Results" MODIFIED="1539650154638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 5" />
@@ -58,14 +81,14 @@
     <SUITE FILE_PATH="coverage/untitled$sqrprinter.coverage" NAME="sqrprinter Coverage Results" MODIFIED="1539631241323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 5" />
     <SUITE FILE_PATH="coverage/untitled$loopfix.coverage" NAME="loopfix Coverage Results" MODIFIED="1538655241772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 4" />
     <SUITE FILE_PATH="coverage/untitled$oms275_h5_q3.coverage" NAME="oms275_h5_q3 Coverage Results" MODIFIED="1539224037689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework 5" />
-    <SUITE FILE_PATH="coverage/untitled$test.coverage" NAME="test Coverage Results" MODIFIED="1539811278599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class" />
+    <SUITE FILE_PATH="coverage/untitled$test.coverage" NAME="test Coverage Results" MODIFIED="1540469579529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class" />
     <SUITE FILE_PATH="coverage/untitled$oms275_hw5_q5.coverage" NAME="oms275_hw5_q5 Coverage Results" MODIFIED="1539234478257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework 5" />
     <SUITE FILE_PATH="coverage/untitled$normal_curve.coverage" NAME="normal_curve Coverage Results" MODIFIED="1537449403146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 2" />
     <SUITE FILE_PATH="coverage/untitled$shittycalendar.coverage" NAME="shittycalendar Coverage Results" MODIFIED="1536842773865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$monodigit.coverage" NAME="monodigit Coverage Results" MODIFIED="1539638739091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 5" />
     <SUITE FILE_PATH="coverage/untitled$oms275_h24_q3.coverage" NAME="oms275_h24_q3 Coverage Results" MODIFIED="1538654889931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework 4" />
-    <SUITE FILE_PATH="coverage/untitled$successivebinary.coverage" NAME="successivebinary Coverage Results" MODIFIED="1539651058170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 5" />
     <SUITE FILE_PATH="coverage/untitled$pinhider.coverage" NAME="pinhider Coverage Results" MODIFIED="1539652150749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 5" />
+    <SUITE FILE_PATH="coverage/untitled$successivebinary.coverage" NAME="successivebinary Coverage Results" MODIFIED="1540241381461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 5" />
     <SUITE FILE_PATH="coverage/untitled$tri_printer.coverage" NAME="tri_printer Coverage Results" MODIFIED="1539630927283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 5" />
     <SUITE FILE_PATH="coverage/untitled$datetime.coverage" NAME="datetime Coverage Results" MODIFIED="1538055589432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 3" />
     <SUITE FILE_PATH="coverage/untitled$oms275_hw5_q6.coverage" NAME="oms275_hw5_q6 Coverage Results" MODIFIED="1539235595078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework 5" />
@@ -96,31 +119,31 @@
     <session id="-932617354">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.10816" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.6" value="5" />
+          <entry key="project.open.time.6" value="7" />
           <entry key="project.open.time.64" value="1" />
           <entry key="project.open.time.7" value="6" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="18" />
+          <entry key="project.opened" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ifelseans" value="1" />
           <entry key="prob1" value="1" />
-          <entry key="py" value="127" />
-          <entry key="txt" value="18" />
+          <entry key="py" value="146" />
+          <entry key="txt" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="20" />
-          <entry key="Python" value="127" />
+          <entry key="PLAIN_TEXT" value="21" />
+          <entry key="Python" value="146" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -128,14 +151,14 @@
           <entry key="Python Console" value="13" />
           <entry key="dummy" value="16" />
           <entry key="prob1" value="80" />
-          <entry key="py" value="27528" />
-          <entry key="txt" value="2234" />
+          <entry key="py" value="30285" />
+          <entry key="txt" value="2344" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="2330" />
-          <entry key="Python" value="27541" />
+          <entry key="PLAIN_TEXT" value="2440" />
+          <entry key="Python" value="30298" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -144,14 +167,79 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Class/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="46" selection-start-line="1" selection-start-column="46" selection-end-line="1" selection-end-column="46" />
+            <state relative-caret-position="221">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lab 8/prob1.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab 8/lab8.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1598">
+              <caret line="94" column="31" selection-start-line="94" selection-start-column="31" selection-end-line="94" selection-end-column="31" />
               <folding>
-                <marker date="1539811278568" expanded="true" signature="179:184" ph="..." />
+                <marker date="1540473920418" expanded="true" signature="1359:2461" ph="..." />
+                <marker date="1540473920418" expanded="true" signature="2472:2473" ph="..." />
+                <marker date="1540473920418" expanded="true" signature="2472:2717" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Homework 5/oms275_hw5_q7.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab 6/sqrprinter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab 6/wordreverse.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab 6/tri_printer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab 6/successivebinary.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -165,6 +253,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>year</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
@@ -176,8 +269,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Lab 3/oddevencheck.py" />
-        <option value="$PROJECT_DIR$/Lab 3/equilateraloptions.py" />
         <option value="$PROJECT_DIR$/Lab 3/timeconverter.py" />
         <option value="$PROJECT_DIR$/Lab 3/shapemaker.py" />
         <option value="$PROJECT_DIR$/Lab 3/payment.py" />
@@ -214,7 +305,6 @@
         <option value="$PROJECT_DIR$/Homework 5/oms275_hw5_q3.py" />
         <option value="$PROJECT_DIR$/Lab 5/prob1" />
         <option value="$PROJECT_DIR$/Lab 5/tri_printer.py" />
-        <option value="$PROJECT_DIR$/Lab 5/sqrprinter.py" />
         <option value="$PROJECT_DIR$/Lab 5/reflectedtri.py" />
         <option value="$PROJECT_DIR$/Lab 5/evenchecker.py" />
         <option value="$PROJECT_DIR$/Lab 5/monodigit.py" />
@@ -226,7 +316,10 @@
         <option value="$PROJECT_DIR$/Lab 5/successivebinary.py" />
         <option value="$PROJECT_DIR$/Lab 5/pinhider.py" />
         <option value="$PROJECT_DIR$/Lab 5/wordreverse.py" />
+        <option value="$PROJECT_DIR$/Lab 5/sqrprinter.py" />
         <option value="$PROJECT_DIR$/Class/test.py" />
+        <option value="$PROJECT_DIR$/Lab 8/lab8.py" />
+        <option value="$PROJECT_DIR$/Lab 8/prob1.txt" />
       </list>
     </option>
   </component>
@@ -236,9 +329,8 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="132" />
-    <option name="y" value="-12" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1982" />
     <option name="width" value="1870" />
     <option name="height" value="2172" />
   </component>
@@ -264,7 +356,17 @@
             <path>
               <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
               <item name="untitled" type="462c0819:PsiDirectoryNode" />
-              <item name="Lab 5" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework 4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework 5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab 8" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -297,8 +399,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test">
-    <configuration name="palindromechecker" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.lab8">
+    <configuration name="lab8" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -306,12 +408,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab 5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab 8" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab 5/palindromechecker.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab 8/lab8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -409,19 +511,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.palindromechecker" />
       <item itemvalue="Python.successivebinary" />
       <item itemvalue="Python.pinhider" />
       <item itemvalue="Python.wordreverse" />
       <item itemvalue="Python.test" />
+      <item itemvalue="Python.lab8" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lab8" />
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.successivebinary" />
         <item itemvalue="Python.wordreverse" />
         <item itemvalue="Python.pinhider" />
-        <item itemvalue="Python.successivebinary" />
-        <item itemvalue="Python.palindromechecker" />
       </list>
     </recent_temporary>
   </component>
@@ -464,18 +566,25 @@
       <option name="project" value="LOCAL" />
       <updated>1539154122437</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Finished Lab 5">
+      <created>1539884499890</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1539884499890</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="66" y="-6" width="1861" height="1093" extended-state="6" />
+    <frame x="991" y="0" width="935" height="1086" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15640599" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33295324" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49942988" visible="true" weight="0.28170478" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32984293" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49942988" visible="true" weight="0.28376964" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991684" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -525,73 +634,60 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="This lab was bunk" />
     <MESSAGE value="Finished homework 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished homework 4" />
+    <MESSAGE value="Finished Lab 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished Lab 5" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Homework 1/oms275_hw1_q3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="55" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homework 2/oms275_hw2_q8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab 3/conversions.txt">
+    <entry file="file://$PROJECT_DIR$/Lab 4/conversions.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab 3/ifelseans.txt">
+    <entry file="file://$PROJECT_DIR$/Lab 4/ifelseans.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab 3/oddevencheck.py">
+    <entry file="file://$PROJECT_DIR$/Lab 4/oddevencheck.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab 3/equilateraloptions.py">
+    <entry file="file://$PROJECT_DIR$/Lab 4/equilateraloptions.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="3" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab 3/datetime.py">
+    <entry file="file://$PROJECT_DIR$/Lab 4/datetime.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab 3/timeconverter.py">
+    <entry file="file://$PROJECT_DIR$/Lab 4/timeconverter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab 3/shapemaker.py">
+    <entry file="file://$PROJECT_DIR$/Lab 4/shapemaker.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="579">
           <caret line="40" selection-start-line="40" selection-end-line="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab 3/payment.py">
+    <entry file="file://$PROJECT_DIR$/Lab 4/payment.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
@@ -612,150 +708,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab 4/loop.txt">
+    <entry file="file://$PROJECT_DIR$/Lab 5/loop.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab 4/loopfix.txt">
+    <entry file="file://$PROJECT_DIR$/Lab 5/loopfix.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab 4/multistar.py">
+    <entry file="file://$PROJECT_DIR$/Lab 5/multistar.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab 4/twoint.py">
+    <entry file="file://$PROJECT_DIR$/Lab 5/twoint.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab 4/3sum.py">
+    <entry file="file://$PROJECT_DIR$/Lab 5/3sum.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="83" selection-start-line="8" selection-start-column="83" selection-end-line="8" selection-end-column="83" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab 4/digsum.py">
+    <entry file="file://$PROJECT_DIR$/Lab 5/digsum.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Homework 4/oms275_hw4_q2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homework 4/oms275_hw4_q3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="3" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homework 4/oms275_hw4_q4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homework 4/oms275_hw4_q5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homework 4/oms275_hw4_q7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab 4/romanbullshitnoloop.py">
+    <entry file="file://$PROJECT_DIR$/Lab 5/romanbullshitnoloop.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab 4/romanbullshit.py">
+    <entry file="file://$PROJECT_DIR$/Lab 5/romanbullshit.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Homework 4/oms275_hw4_q6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab 4/binaryconverter.py">
+    <entry file="file://$PROJECT_DIR$/Lab 5/binaryconverter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homework 4/oms275_hw4_q8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homework 5/oms275_hw5_q3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homework 5/oms275_hw5_q4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homework 5/oms275_hw5_q5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homework 5/oms275_hw5_q6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homework 5/oms275_hw5_q7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
@@ -766,6 +778,111 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Lab 6/prob1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab 6/evenchecker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab 5/nsum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab 6/reflectedtri.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab 5/geomean.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab 6/monodigit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab 6/stringmethods.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="15" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab 6/namecheck.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab 6/hammingdistance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab 6/palindromechecker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab 6/pinhider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="61" selection-start-line="6" selection-start-column="61" selection-end-line="6" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework 5/oms275_hw5_q6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework 5/oms275_hw5_q5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework 5/oms275_hw5_q4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework 5/oms275_hw5_q3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Homework 5/oms275_hw5_q2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -773,118 +890,113 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab 5/prob1">
+    <entry file="file://$PROJECT_DIR$/Homework 4/oms275_hw4_q8.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="51">
+          <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab 5/evenchecker.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab 4/nsum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab 5/reflectedtri.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab 5/sqrprinter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab 5/tri_printer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab 4/geomean.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab 5/monodigit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab 5/stringmethods.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="15" selection-start-line="35" selection-start-column="15" selection-end-line="35" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab 5/namecheck.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab 5/hammingdistance.py">
+    <entry file="file://$PROJECT_DIR$/Homework 4/oms275_hw4_q7.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" column="42" lean-forward="true" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab 5/palindromechecker.py">
+    <entry file="file://$PROJECT_DIR$/Homework 4/oms275_hw4_q6.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        <state relative-caret-position="374">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab 5/successivebinary.py">
+    <entry file="file://$PROJECT_DIR$/Homework 4/oms275_hw4_q5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="53" selection-start-line="10" selection-start-column="53" selection-end-line="10" selection-end-column="53" />
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab 5/pinhider.py">
+    <entry file="file://$PROJECT_DIR$/Homework 4/oms275_hw4_q4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="61" selection-start-line="6" selection-start-column="61" selection-end-line="6" selection-end-column="61" />
+        <state relative-caret-position="51">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab 5/wordreverse.py">
+    <entry file="file://$PROJECT_DIR$/Homework 4/oms275_hw4_q3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework 4/oms275_hw4_q2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab 8/lab8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1598">
+          <caret line="94" column="31" selection-start-line="94" selection-start-column="31" selection-end-line="94" selection-end-column="31" />
+          <folding>
+            <marker date="1540473920418" expanded="true" signature="1359:2461" ph="..." />
+            <marker date="1540473920418" expanded="true" signature="2472:2473" ph="..." />
+            <marker date="1540473920418" expanded="true" signature="2472:2717" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework 5/oms275_hw5_q7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab 6/sqrprinter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab 6/wordreverse.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class/test.py">
+    <entry file="file://$PROJECT_DIR$/Lab 6/tri_printer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="46" selection-start-line="1" selection-start-column="46" selection-end-line="1" selection-end-column="46" />
-          <folding>
-            <marker date="1539811278568" expanded="true" signature="179:184" ph="..." />
-          </folding>
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab 6/successivebinary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab 8/prob1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
         </state>
       </provider>
     </entry>
