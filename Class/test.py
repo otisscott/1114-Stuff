@@ -1,13 +1,17 @@
-def go(from_num, to_num):
-    if to_num < from_num:
-        temp = to_num
-        to_num = from_num
-        from_num = temp
-    while from_num < to_num:
-        print(str(from_num) + ".." + str(to_num))
-        from_num += 1
-        to_num -= 1
+def remove_all(xs, elem):
+    """
+    :param xs:
+    :param elem:
+    :return:
+    """
+    for each in xs:
+        if each == elem:
+            xs.remove(each)
+    print(xs)
 
 
-go(5, 10)
-go(72, 69)
+def main():
+    remove_all(["this", "that", "thy", "tho", "they"], "that")
+
+
+main()

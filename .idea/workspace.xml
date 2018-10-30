@@ -2,51 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc0aa110-5527-45e2-a392-5c0a47a99f70" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Lab 8/lab8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab 8/prob1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework 6/oms275_hw6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Class/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 1/interestcalc.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 2/interestcalc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 1/shittycalendar.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 2/shittycalendar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 1/simplecalculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 2/simplecalculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 1/volumeofsphere.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 2/volumeofsphere.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 2/normal_curve.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 3/normal_curve.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 2/random_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 3/random_string.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 2/shapes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 3/shapes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 2/timealive.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 3/timealive.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 2/truestar.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 3/truestar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 3/conversions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 4/conversions.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 3/datetime.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 4/datetime.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 3/equilateraloptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 4/equilateraloptions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 3/ifelseans.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 4/ifelseans.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 3/oddevencheck.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 4/oddevencheck.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 3/payment.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 4/payment.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 3/shapemaker.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 4/shapemaker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 3/timeconverter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 4/timeconverter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 4/3sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 5/3sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 4/binaryconverter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 5/binaryconverter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 4/digsum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 5/digsum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 4/geomean.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 5/geomean.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 4/loop.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 5/loop.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 4/loopfix.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 5/loopfix.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 4/multistar.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 5/multistar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 4/nsum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 5/nsum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 4/romanbullshit.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 5/romanbullshit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 4/romanbullshitnoloop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 5/romanbullshitnoloop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 4/twoint.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 5/twoint.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 5/evenchecker.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 6/evenchecker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 5/hammingdistance.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 6/hammingdistance.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 5/monodigit.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 6/monodigit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 5/namecheck.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 6/namecheck.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 5/palindromechecker.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 6/palindromechecker.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 5/pinhider.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 6/pinhider.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 5/prob1" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 6/prob1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 5/reflectedtri.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 6/reflectedtri.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 5/sqrprinter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 6/sqrprinter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 5/stringmethods.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 6/stringmethods.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 5/successivebinary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 6/successivebinary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 5/tri_printer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 6/tri_printer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 5/wordreverse.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 6/wordreverse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework 6/oms275_hw6_q1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 6/oms275_hw6_q1.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +40,7 @@
     <SUITE FILE_PATH="coverage/untitled$sqrprinter.coverage" NAME="sqrprinter Coverage Results" MODIFIED="1539631241323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 5" />
     <SUITE FILE_PATH="coverage/untitled$loopfix.coverage" NAME="loopfix Coverage Results" MODIFIED="1538655241772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 4" />
     <SUITE FILE_PATH="coverage/untitled$oms275_h5_q3.coverage" NAME="oms275_h5_q3 Coverage Results" MODIFIED="1539224037689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework 5" />
-    <SUITE FILE_PATH="coverage/untitled$test.coverage" NAME="test Coverage Results" MODIFIED="1540469579529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class" />
+    <SUITE FILE_PATH="coverage/untitled$test.coverage" NAME="test Coverage Results" MODIFIED="1540848969611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class" />
     <SUITE FILE_PATH="coverage/untitled$oms275_hw5_q5.coverage" NAME="oms275_hw5_q5 Coverage Results" MODIFIED="1539234478257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework 5" />
     <SUITE FILE_PATH="coverage/untitled$normal_curve.coverage" NAME="normal_curve Coverage Results" MODIFIED="1537449403146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 2" />
     <SUITE FILE_PATH="coverage/untitled$shittycalendar.coverage" NAME="shittycalendar Coverage Results" MODIFIED="1536842773865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -101,6 +60,7 @@
     <SUITE FILE_PATH="coverage/untitled$interestcalc.coverage" NAME="interestcalc Coverage Results" MODIFIED="1536842800583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/untitled$oms275_hw5_q4.coverage" NAME="oms275_hw5_q4 Coverage Results" MODIFIED="1539224614974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework 5" />
     <SUITE FILE_PATH="coverage/untitled$payment.coverage" NAME="payment Coverage Results" MODIFIED="1538055631457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 3" />
+    <SUITE FILE_PATH="coverage/untitled$oms275_hw6.coverage" NAME="oms275_hw6 Coverage Results" MODIFIED="1540927135165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework 6" />
     <SUITE FILE_PATH="coverage/untitled$nsum.coverage" NAME="nsum Coverage Results" MODIFIED="1538660935324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 4" />
     <SUITE FILE_PATH="coverage/untitled$binaryconverter.coverage" NAME="binaryconverter Coverage Results" MODIFIED="1539154341429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab 4" />
     <SUITE FILE_PATH="coverage/untitled$oms275_hw5_q7.coverage" NAME="oms275_hw5_q7 Coverage Results" MODIFIED="1539236646497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework 5" />
@@ -125,25 +85,25 @@
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.6" value="7" />
+          <entry key="project.open.time.6" value="8" />
           <entry key="project.open.time.64" value="1" />
           <entry key="project.open.time.7" value="6" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="20" />
+          <entry key="project.opened" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ifelseans" value="1" />
           <entry key="prob1" value="1" />
-          <entry key="py" value="146" />
-          <entry key="txt" value="19" />
+          <entry key="py" value="148" />
+          <entry key="txt" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="21" />
-          <entry key="Python" value="146" />
+          <entry key="PLAIN_TEXT" value="23" />
+          <entry key="Python" value="148" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -151,14 +111,14 @@
           <entry key="Python Console" value="13" />
           <entry key="dummy" value="16" />
           <entry key="prob1" value="80" />
-          <entry key="py" value="30285" />
-          <entry key="txt" value="2344" />
+          <entry key="py" value="31425" />
+          <entry key="txt" value="2475" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="2440" />
-          <entry key="Python" value="30298" />
+          <entry key="PLAIN_TEXT" value="2571" />
+          <entry key="Python" value="31438" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -170,31 +130,53 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Class/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lab 8/prob1.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+            <state relative-caret-position="204">
+              <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+              <folding>
+                <marker date="1540848969509" expanded="true" signature="25:30" ph="..." />
+                <marker date="1540848969509" expanded="true" signature="187:192" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lab 8/lab8.py">
+        <entry file="file://$PROJECT_DIR$/Homework 6/oms275_hw6_q1.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1598">
-              <caret line="94" column="31" selection-start-line="94" selection-start-column="31" selection-end-line="94" selection-end-column="31" />
+            <state relative-caret-position="289">
+              <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Homework 6/oms275_hw6.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="131" column="4" selection-start-line="131" selection-start-column="4" selection-end-line="131" selection-end-column="4" />
               <folding>
-                <marker date="1540473920418" expanded="true" signature="1359:2461" ph="..." />
-                <marker date="1540473920418" expanded="true" signature="2472:2473" ph="..." />
-                <marker date="1540473920418" expanded="true" signature="2472:2717" ph="..." />
+                <marker date="1540926971961" expanded="true" signature="81:86" ph="..." />
+                <marker date="1540926971961" expanded="true" signature="182:187" ph="..." />
+                <marker date="1540926971961" expanded="true" signature="309:314" ph="..." />
+                <marker date="1540926971961" expanded="true" signature="410:415" ph="..." />
+                <marker date="1540926971961" expanded="true" signature="1317:1322" ph="..." />
+                <marker date="1540926971961" expanded="true" signature="1511:1512" ph="..." />
+                <marker date="1540926971961" expanded="true" signature="1511:1516" ph="..." />
+                <marker date="1540926971961" expanded="true" signature="1610:1615" ph="..." />
+                <marker date="1540926971961" expanded="true" signature="1707:1708" ph="..." />
+                <marker date="1540926971961" expanded="true" signature="1707:1712" ph="..." />
+                <marker date="1540926971961" expanded="true" signature="1707:2343" ph="..." />
+                <marker date="1540926971961" expanded="true" signature="2354:2483" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab 8/prob1.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -269,8 +251,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Lab 3/timeconverter.py" />
-        <option value="$PROJECT_DIR$/Lab 3/shapemaker.py" />
         <option value="$PROJECT_DIR$/Lab 3/payment.py" />
         <option value="$PROJECT_DIR$/Lab 3/datetime.py" />
         <option value="$PROJECT_DIR$/Homework 4/oms275_hw4_q1.txt" />
@@ -317,9 +297,11 @@
         <option value="$PROJECT_DIR$/Lab 5/pinhider.py" />
         <option value="$PROJECT_DIR$/Lab 5/wordreverse.py" />
         <option value="$PROJECT_DIR$/Lab 5/sqrprinter.py" />
-        <option value="$PROJECT_DIR$/Class/test.py" />
         <option value="$PROJECT_DIR$/Lab 8/lab8.py" />
         <option value="$PROJECT_DIR$/Lab 8/prob1.txt" />
+        <option value="$PROJECT_DIR$/Homework 6/oms275_hw6_q1.txt" />
+        <option value="$PROJECT_DIR$/Class/test.py" />
+        <option value="$PROJECT_DIR$/Homework 6/oms275_hw6.py" />
       </list>
     </option>
   </component>
@@ -340,7 +322,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -356,12 +337,12 @@
             <path>
               <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
               <item name="untitled" type="462c0819:PsiDirectoryNode" />
-              <item name="Homework 4" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework 5" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
               <item name="untitled" type="462c0819:PsiDirectoryNode" />
-              <item name="Homework 5" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework 6" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
@@ -372,6 +353,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -399,7 +381,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.lab8">
+  <component name="RunManager" selected="Python.oms275_hw6">
     <configuration name="lab8" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -422,7 +404,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pinhider" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="oms275_hw6" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="untitled" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -430,12 +412,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab 5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homework 6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab 5/pinhider.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework 6/oms275_hw6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -512,18 +494,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.successivebinary" />
-      <item itemvalue="Python.pinhider" />
       <item itemvalue="Python.wordreverse" />
       <item itemvalue="Python.test" />
       <item itemvalue="Python.lab8" />
+      <item itemvalue="Python.oms275_hw6" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lab8" />
+        <item itemvalue="Python.oms275_hw6" />
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.lab8" />
         <item itemvalue="Python.successivebinary" />
         <item itemvalue="Python.wordreverse" />
-        <item itemvalue="Python.pinhider" />
       </list>
     </recent_temporary>
   </component>
@@ -573,13 +555,21 @@
       <option name="project" value="LOCAL" />
       <updated>1539884499890</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="All new work added">
+      <created>1540846984304</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1540846984304</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="991" y="0" width="935" height="1086" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33295324" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.340935" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -635,23 +625,10 @@
     <MESSAGE value="This lab was bunk" />
     <MESSAGE value="Finished homework 4" />
     <MESSAGE value="Finished Lab 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished Lab 5" />
+    <MESSAGE value="All new work added" />
+    <option name="LAST_COMMIT_MESSAGE" value="All new work added" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lab 4/conversions.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab 4/ifelseans.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lab 4/oddevencheck.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -765,13 +742,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lab 5/binaryconverter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homework 5/oms275_hw5_q1.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="5" />
@@ -939,25 +909,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab 8/lab8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1598">
-          <caret line="94" column="31" selection-start-line="94" selection-start-column="31" selection-end-line="94" selection-end-column="31" />
-          <folding>
-            <marker date="1540473920418" expanded="true" signature="1359:2461" ph="..." />
-            <marker date="1540473920418" expanded="true" signature="2472:2473" ph="..." />
-            <marker date="1540473920418" expanded="true" signature="2472:2717" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Homework 5/oms275_hw5_q7.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -997,6 +948,64 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework 5/oms275_hw5_q1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab 8/lab8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="94" column="31" selection-start-line="94" selection-start-column="31" selection-end-line="94" selection-end-column="31" />
+          <folding>
+            <marker date="1540473920418" expanded="true" signature="1359:2461" ph="..." />
+            <marker date="1540473920418" expanded="true" signature="2472:2473" ph="..." />
+            <marker date="1540473920418" expanded="true" signature="2472:2717" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework 6/oms275_hw6_q1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+          <folding>
+            <marker date="1540848969509" expanded="true" signature="25:30" ph="..." />
+            <marker date="1540848969509" expanded="true" signature="187:192" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework 6/oms275_hw6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="131" column="4" selection-start-line="131" selection-start-column="4" selection-end-line="131" selection-end-column="4" />
+          <folding>
+            <marker date="1540926971961" expanded="true" signature="81:86" ph="..." />
+            <marker date="1540926971961" expanded="true" signature="182:187" ph="..." />
+            <marker date="1540926971961" expanded="true" signature="309:314" ph="..." />
+            <marker date="1540926971961" expanded="true" signature="410:415" ph="..." />
+            <marker date="1540926971961" expanded="true" signature="1317:1322" ph="..." />
+            <marker date="1540926971961" expanded="true" signature="1511:1512" ph="..." />
+            <marker date="1540926971961" expanded="true" signature="1511:1516" ph="..." />
+            <marker date="1540926971961" expanded="true" signature="1610:1615" ph="..." />
+            <marker date="1540926971961" expanded="true" signature="1707:1708" ph="..." />
+            <marker date="1540926971961" expanded="true" signature="1707:1712" ph="..." />
+            <marker date="1540926971961" expanded="true" signature="1707:2343" ph="..." />
+            <marker date="1540926971961" expanded="true" signature="2354:2483" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
