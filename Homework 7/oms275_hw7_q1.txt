@@ -1,0 +1,13 @@
+# Otis Scott
+# CS - UY 1114
+# 5 Nov 2018
+# Homework 7
+
+1.) This function checks if the submitted string matches one of the given strings.
+    If it does it returns the string entered, and if not it returns "unknown"
+
+2.) This function takes a list of strings and prints all the items out separated by a comma and space
+
+3.) This function splits a list in half and adds the corresponding digits to each other before returning the final list, containing half the numbers of the input
+
+4.) This function return ["a", "b", "c", "aa", "bb", "cc", "aaa", "bbb", "ccc"]
