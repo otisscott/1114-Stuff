@@ -76,5 +76,5 @@ def darken(data, quantity):
 
 nyc = loadpgm("nyc.pgm")
 rotated = rotate(nyc)
-display(rotated)
-#print(nyc[0])
+darker = darken(nyc, 10)
+display(darker)
