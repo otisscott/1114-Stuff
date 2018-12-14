@@ -1,3 +1,8 @@
+# Otis Scott
+# CS - UY 1114
+# 6 December 2018
+# Homework 9
+
 respellings = {
     "teh": "the",
     "relevent": "relevant",
